@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Todd Vang - A little about me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>College of Engineering - CSULB </h1>
+  <h3>Todd Vang - Comp Sci Major <i class="fas fa-university" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i></h3>
+
+</div>
+
+
+<div class="container" style="margin-top:30px">
+    
+ <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
+        <p class="lead">Welcome to my Home page. I am a Computer Science Major at CSULB. I also graduated from David Starr Jordan High School. This is my first year at CSULB. Learning Python was my first time actually programing. My first time I program was RobotC which made me to start programming. As I progress I notice that coding started to take up more and more time and is getting harder really fast. If you fall behind class you just mess up you semester because it is really hard to catch up.
+
+I have 3 brother that and 1 sister so we are a family of 7 including me and my parents. My oldest brother is at LBCC learning how to become a chef, my second older brother is still at CSULB on his second year to become a Bussiness Major, my third brother is my little brother who is still in middle school in 8th grade about to be in high school next school year, and last my sister who is the oldest of us all and she also graduated from LBCC and is working at amazon.</p>
+      </div>
+      <div class="col-md-5">
+        <img src="image0.jpeg" alt="Todd Vang" width="400" height="400">
+
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">
+    
+<div class="row featurette">
+      <div class="col-md-7">
+          <ul>
+          <li>Eng102</li>  
+            <li>CECS100</li>
+          <li>CECS105</li>
+            <li>Math112</li>
+            <li>Com130</li>
+            <li>CECS100 Lab</li>
+          
+          </ul>
+        
+      </div>
+      <div class="col-md-5">
+         <h2 class="featurette-heading">CLASSES I HAVE  <span class="text-muted">TEACHING.</span></h2>
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">    
+    
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>Created by <a href="mailto:r.Todd.Vang@student.csulb.edu">Todd Vang</a> Last updated on 5-7-21</p>
+    <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
+</div>
+    </div>
+</body>
+</html>
+© 2021 GitHub, Inc.
